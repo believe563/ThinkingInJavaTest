@@ -1,0 +1,2 @@
+# ThinkingInJavaTest
+practice java
